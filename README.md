@@ -53,4 +53,4 @@ Let's plot the singular values and the cumulative sum.
 <img src='pics/singular_values.png' width="300">
 <img src='pics/cum_sum.png' width="300">
 
-We can see that the majority of the information can be retrieved after truncating beyond the 100th singular value.
+We can see that the majority of the image is recognizable after truncating beyond the 100th singular value.
