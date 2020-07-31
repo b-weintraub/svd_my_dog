@@ -6,6 +6,10 @@ Meet **Sunny**, my goldendoodle!
 
 Let's convert RGB image to grayscale.
 
+```
+A = imread('Sunny.jpeg')
+X = np.mean(A, -1) # convert RGB to grayscale
+```
 
 <img src='pics/sunny_grayscale.png' width="300">
 
