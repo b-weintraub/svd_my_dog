@@ -40,7 +40,7 @@ for r in (5, 20, 100):
     plt.savefig(f'pics/sunny_grayscale{str(r)}.png');
 ```
 
-Let's see how Sunny look at various rank r values -
+Let's see how Sunny looks at various rank r values -
 
 <img src='pics/sunny_grayscale5.png' width="300">
 <img src='pics/sunny_grayscale20.png' width="300">
